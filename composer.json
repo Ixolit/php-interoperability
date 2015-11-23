@@ -10,16 +10,9 @@
 		"psr/log": "^1.0",
 		"psr/http-message": "^1.0"
 	},
-	"suggest": {
-	},
 	"autoload": {
 		"psr-0": {
 			"Ixolit\\Interoperability": "./src"
-		}
-	},
-	"extra": {
-		"branch-alias": {
-			"dev-master": "master"
 		}
 	}
 }
