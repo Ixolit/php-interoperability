@@ -8,6 +8,8 @@ namespace Ixolit\Interoperability;
  * to functions. All functions using the interoperability framework SHOULD accept both the ArrayObjectInterface and
  * the PHP-native ArrayObject.
  *
+ * Type documentation using this class should be made as `array|ArrayObjectInterface|\ArrayObject`
+ *
  * @package Ixolit\Interoperability
  */
 interface ArrayObjectInterface extends \IteratorAggregate, \ArrayAccess, \Serializable, \Countable {
