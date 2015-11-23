@@ -12,7 +12,7 @@ interface ArrayLoadableInterface {
 	/**
 	 * This function will load the class with data from an array.
 	 *
-	 * @param array $data
+	 * @param array|ArrayObjectInterface|\ArrayObject $data
 	 *
 	 * @throws ArrayConversionExceptionInterface if an error happened during the conversion.
 	 */

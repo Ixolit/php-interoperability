@@ -13,6 +13,8 @@ These interfaces help you with converting an object from- and to an array.
 - **ArrayConvertibleInterface**: Declares the toArray() method.
 - **ArrayLoadableInterface**: Declares the fromArray() method.
 - **ArraySerializableInterface**: Declares both the toArray() and fromArray() interface.
+- **ArrayObjectInterface**: An interface that implements all interfaces from the built-in \ArrayObject class to help 
+  with creating array-compatible classes.
 
 ### PHP-FIG
 
