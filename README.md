@@ -30,4 +30,4 @@ All contributions are welcome. Please follow the following rules:
 - Only interfaces, no specific implementations.
 - All interfaces and methods need to be documented according to their intent.
 - All names should be unambiguous regarding their function, even without reading the documentation.
-- All contributions are made unter the MIT open source license.
+- All contributions are made under the MIT open source license.
